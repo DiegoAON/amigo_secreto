@@ -1,4 +1,5 @@
 Proyecto: Amigo Secreto
+
 Descripción
 Este proyecto es una aplicación web diseñada para facilitar la dinámica del "Amigo Secreto". 
 Permite a los usuarios ingresar nombres de participantes y, con un solo clic, sortear aleatoriamente a un amigo secreto de la lista.
